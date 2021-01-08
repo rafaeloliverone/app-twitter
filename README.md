@@ -1,5 +1,5 @@
 # Twitter
-Repositório desenvolvido durante o curso de Flexbox da Rocketseat, onde foi replicado o layout do twitter.
+Repositório desenvolvido durante o curso de Flexbox, onde foi replicado o layout do twitter.
 
 <br>
 
